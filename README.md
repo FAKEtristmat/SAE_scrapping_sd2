@@ -19,7 +19,7 @@ Après avoir collecté toutes les données, nous les avons importées dans Power
   - Repérer les pages pertinentes sur le site FBref pour le scraping.
 
 2. **Scraping des données avec Java**
-  - Utilisation de bibliothèques Java comme Selenium pour extraire les données HTML.
+  - Utilisation de bibliothèques Java comme Selenium pour extraire/interagir avec les éléments de la page.
   - Extraction des tableaux de statistiques des joueurs et des informations liées à la Ligue 1.
   - Validation et structuration des données dans un format exploitable : CSV.
 
