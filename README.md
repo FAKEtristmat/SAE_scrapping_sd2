@@ -38,3 +38,10 @@ Après avoir collecté toutes les données, nous les avons importées dans Power
   - Création de tableaux de bord interactifs pour visualiser :
     - Les performances des joueurs (tirs, passes, phases arrêtées).
     - Comparaisons entre joueurs par équipe.
+
+## Utilisation Power BI
+Vous pouvez choisir un club a partir du filtre ainsi qu'un joueur pour avoir ces statistique propres. Il y a Une *page d'acceuil*, Page *passe*, Page *tirs*, *Defenses* et *Gardiens*.
+En choissisant les equipes et les joueurs les photos se mettent a jour:
+- Filtre équipe pour choisir une équipe = photo de l'equipe
+- Filtre joueur : cliqué sur le graphique en barre = photo du joueur
+On a alors les statistique de l'equipe ou d'un joueur en particulier
