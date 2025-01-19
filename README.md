@@ -4,8 +4,8 @@ Travail réalisé par `Tristan` et `Arnaud` en SD2
 ## Description du projet
 Le projet consiste à collecter des informations détaillées sur les joueurs de la Ligue 1 à partir du site FBref. Ces informations comprennent :
 
-[Site fbref ](https://fbref.com/fr/)
-[Lien Power BI]([https://fbref.com/fr/](https://app.powerbi.com/MobileRedirect.html?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&Context=share-report&reportPage=a804966662e089394710&bookmarkGuid=007e0217-3f78-4324-a714-e4628da2e722&action=OpenReport&groupObjectId=589558de-5f05-424b-8637-806e696d3591&reportObjectId=c49f1f60-56b0-46dd-9ccb-a6e99ceeeb14&pbi_source=mobile_ios)
+- [Site fbref ](https://fbref.com/fr/)
+- [Lien Power BI](https://app.powerbi.com/MobileRedirect.html?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&Context=share-report&reportPage=a804966662e089394710&bookmarkGuid=007e0217-3f78-4324-a714-e4628da2e722&action=OpenReport&groupObjectId=589558de-5f05-424b-8637-806e696d3591&reportObjectId=c49f1f60-56b0-46dd-9ccb-a6e99ceeeb14&pbi_source=mobile_ios)
 - Les statistiques de tirs (nombre total, pourcentage de tirs cadrés).
 - Les statistiques de passes (courtes, longues, taux de réussite).
 - Les performances sur phases arrêtées.
