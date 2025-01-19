@@ -1,0 +1,480 @@
+Clt;Joueur;Nation;Pos;Équipe;Âge;Naissance;90;Tcl;TclR;ZDéf;MilTer;ZOff;Tcl;Att;Tcl%;Manqués;Balles contrées;Tirs;Passe;Int;Tcl+Int;Dég;Err;Matchs
+;Keyliane Abdallah;fr FRA;AT;Marseille;18-281;2006;0.0;1;1;1;0;0;1;1;100.0;0;0;0;0;0;1;0;0;Matchs
+;Yunis Abdelhamid;ma MAR;DF;Saint-Étienne;37-105;1987;10.4;17;11;15;2;0;10;16;62.5;6;22;15;7;12;29;54;1;Matchs
+;Himad Abdelli;dz ALG;MT,AT;Angers;25-055;1999;15.8;25;17;7;10;8;8;24;33.3;16;8;0;8;12;37;13;1;Matchs
+;Mohamed Abdelmoneim;eg EGY;DF;Nice;25-345;1999;6.8;17;12;11;5;1;11;18;61.1;7;6;3;3;13;30;39;1;Matchs
+;Ali Abdi;tn TUN;DF,MT;Nice;31-022;1993;6.5;16;10;7;4;5;14;21;66.7;7;13;3;10;3;19;13;0;Matchs
+;Matthis Abline;fr FRA;AT;Nantes;21-289;2003;14.6;6;3;2;2;2;1;6;16.7;5;3;0;3;2;8;22;1;Matchs
+;Abner;br BRA;DF;Lyon;24-229;2000;8.3;18;13;7;8;3;13;20;65.0;7;11;1;10;5;23;30;0;Matchs
+;Zakaria Aboukhlal;ma MAR;MT,AT;Toulouse;24-328;2000;13.9;14;8;6;5;3;4;14;28.6;10;10;0;10;6;20;5;0;Matchs
+;Akor Adams;ng NGA;AT;Montpellier;24-348;2000;10.9;4;3;1;2;1;3;4;75.0;1;2;1;1;1;5;4;1;Matchs
+;Martin Adeline;fr FRA;MT;Reims;21-040;2003;0.3;1;1;0;1;0;1;2;50.0;1;0;0;0;0;1;2;0;Matchs
+;Adryelson;br BRA;DF;Lyon;26-294;1998;0.0;0;0;0;0;0;0;0;;0;0;0;0;1;1;1;0;Matchs
+;Emmanuel Agbadou;ci CIV;DF;Reims;27-208;1997;14.0;25;17;19;3;3;19;26;73.1;7;22;13;9;19;44;64;1;Matchs
+;Ruben Aguilar;fr FRA;DF;Lens;31-260;1993;3.0;9;6;5;4;0;7;9;77.8;2;5;1;4;5;14;2;0;Matchs
+;Jean-Eudes Aholou;ci CIV;MT;Angers;30-297;1994;13.0;35;22;17;10;8;16;28;57.1;12;22;11;11;27;62;13;0;Matchs
+;Ayman Aiki;fr FRA;AT,MT;Saint-Étienne;19-200;2005;1.4;3;3;1;2;0;1;1;100.0;0;1;0;1;1;4;0;0;Matchs
+;Ludovic Ajorque;fr FRA;AT;Brest;30-321;1994;11.6;12;9;1;5;6;4;12;33.3;8;5;2;3;3;15;8;0;Matchs
+;Ümit Akdag;ro ROU;DF;Toulouse;21-097;2003;2.5;4;2;1;3;0;3;6;50.0;3;5;4;1;10;14;8;0;Matchs
+;Sergio Akieme;es ESP;DF;Reims;27-026;1997;12.8;17;12;15;1;1;12;17;70.6;5;12;4;8;9;26;36;3;Matchs
+;Maghnes Akliouche;fr FRA;AT,MT;Monaco;22-321;2002;11.6;26;16;8;9;9;9;23;39.1;14;8;0;8;8;34;3;0;Matchs
+;Clément Akpa;ci CIV;DF;Auxerre;23-048;2001;13.8;30;19;17;8;5;18;27;66.7;9;24;6;18;17;47;63;1;Matchs
+;Mohamed Ali Cho;fr FRA;AT,MT;Nice;20-358;2004;8.8;6;3;1;1;4;2;7;28.6;5;7;1;6;1;7;2;0;Matchs
+;Jim Allevinah;ga GAB;AT;Angers;29-319;1995;9.0;9;6;4;3;2;2;13;15.4;11;2;0;2;4;13;8;0;Matchs
+;Jordan Amavi;fr FRA;DF;Brest;30-308;1994;8.3;24;17;10;11;3;15;21;71.4;6;8;2;6;7;31;16;0;Matchs
+;Kelvin Amian;fr FRA;DF,MT;Nantes;26-338;1998;11.9;33;19;27;6;0;17;20;85.0;3;9;5;4;2;35;33;0;Matchs
+;Michael Amir Murillo;pa PAN;DF;Marseille;28-335;1996;13.8;27;15;16;6;5;14;25;56.0;11;7;3;4;11;38;36;2;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Mathis Amougou;fr FRA;MT;Saint-Étienne;18-359;2006;8.0;14;9;10;4;0;7;13;53.8;6;6;0;6;12;26;4;0;Matchs
+;Benjamin André;fr FRA;MT;Lille;34-161;1990;14.9;45;18;16;26;3;27;49;55.1;22;19;3;16;20;65;28;0;Matchs
+;Dennis Appiah;fr FRA;DF;Saint-Étienne;32-216;1992;12.3;33;22;17;14;2;18;34;52.9;16;13;5;8;11;44;43;0;Matchs
+;Carlens Arcus;ht HAI;DF;Angers;28-197;1996;14.0;35;21;22;11;2;24;39;61.5;15;15;3;12;20;55;48;2;Matchs
+;Hákon Arnar Haraldsson;is ISL;MT,AT;Lille;21-276;2003;5.8;15;5;4;8;3;6;10;60.0;4;3;1;2;3;18;1;0;Matchs
+;Marco Asensio;es ESP;AT,MT;Paris S-G;28-356;1996;6.8;4;3;1;3;0;0;6;0.0;6;1;0;1;0;4;1;0;Matchs
+;Lorenz Assignon;tg TOG;DF,MT;Rennes;24-203;2000;10.5;20;11;10;9;1;9;22;40.9;13;11;3;8;12;32;40;0;Matchs
+;Dehmaine Assoumani;fr FRA;MT,AT;Nantes;19-269;2005;0.4;5;2;0;3;2;3;3;100.0;0;0;0;0;1;6;1;0;Matchs
+;Valentin Atangana Edoa;fr FRA;MT;Reims;19-139;2005;14.7;32;24;16;13;3;13;17;76.5;4;13;4;9;19;51;24;0;Matchs
+;Florian Ayé;fr FRA;AT;Auxerre;27-358;1997;3.5;2;2;0;0;2;0;1;0.0;1;3;0;3;3;5;5;0;Matchs
+;André Ayew;gh GHA;AT;Le Havre;35-025;1989;6.6;7;5;2;3;2;4;6;66.7;2;3;2;1;1;8;4;0;Matchs
+;Neil El Aynaoui;fr FRA;MT;Lens;23-193;2001;3.2;11;8;9;2;0;4;14;28.6;10;7;3;4;2;13;5;0;Matchs
+;Shavy Babicka;ga GAB;MT,AT;Toulouse;24-224;2000;5.8;13;10;3;6;4;7;11;63.6;4;9;0;9;1;14;3;2;Matchs
+;Theo Bair;ca CAN;AT;Auxerre;25-137;1999;4.7;2;1;0;1;1;0;0;;0;5;2;3;0;2;5;0;Matchs
+;Mitchel Bakker;nl NED;DF,AT;Lille;24-205;2000;4.3;14;11;5;6;3;6;11;54.5;5;3;0;3;7;21;9;0;Matchs
+;Darryl Bakola;fr FRA;DF;Marseille;17-042;2007;0.1;1;1;0;1;0;0;0;;0;0;0;0;0;1;0;0;Matchs
+;Dilane Bakwa;fr FRA;MT,AT;Strasbourg;22-138;2002;15.5;17;11;8;4;5;6;15;40.0;9;13;0;13;7;24;17;0;Matchs
+;Leonardo Balerdi;ar ARG;DF;Marseille;25-351;1999;12.0;24;18;16;7;1;11;20;55.0;9;17;10;7;14;38;33;3;Matchs
+;Folarin Balogun;us USA;AT;Monaco;23-192;2001;5.2;0;0;0;0;0;0;2;0.0;2;0;0;0;0;0;0;0;Matchs
+;Abdoulaye Bamba;ci CIV;DF;Angers;34-261;1990;6.8;12;6;10;2;0;7;9;77.8;2;5;3;2;7;19;31;0;Matchs
+;Mohamed Bamba;ci CIV;MT;Reims;20-095;2004;0.0;0;0;0;0;0;0;0;;0;1;0;1;0;0;0;0;Matchs
+;Bradley Barcola;fr FRA;AT;Paris S-G;22-131;2002;11.7;12;6;5;5;2;1;13;7.7;12;11;0;11;8;20;4;0;Matchs
+;Melvin Bard;fr FRA;DF,MT;Nice;24-066;2000;7.5;23;13;18;5;0;9;15;60.0;6;14;6;8;7;30;16;2;Matchs
+;Gabriel Bares;ch SUI;MT,DF;Montpellier;24-135;2000;0.6;2;2;2;0;0;1;2;50.0;1;0;0;0;1;3;3;0;Matchs
+;Dylan Batubinsika;cd COD;DF;Saint-Étienne;28-331;1996;14.6;16;8;12;3;1;7;13;53.8;6;16;8;8;29;45;83;3;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Haris Belkebla;dz ALG;MT;Angers;30-349;1994;11.0;21;14;15;5;1;10;20;50.0;10;12;2;10;18;39;23;1;Matchs
+;Yassin Belkhdim;fr FRA;MT,AT;Angers;22-332;2002;6.4;30;15;13;11;6;13;29;44.8;16;11;2;9;9;39;13;0;Matchs
+;Eliesse Ben Seghir;ma MAR;MT,AT;Monaco;19-330;2005;12.6;21;17;7;10;4;12;20;60.0;8;12;0;12;6;27;1;0;Matchs
+;Saïd Benrahma;dz ALG;AT,MT;Lyon;29-154;1995;7.3;7;4;3;3;1;2;9;22.2;7;6;0;6;2;9;1;0;Matchs
+;Lucas Beraldo;br BRA;DF;Paris S-G;21-048;2003;9.1;16;14;12;4;0;10;20;50.0;10;6;2;4;8;24;15;1;Matchs
+;Dimitry Bertaud;cd COD;GB;Montpellier;26-219;1998;3.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;2;0;Matchs
+;Emmanuel Biumla;fr FRA;DF;Angers;19-248;2005;9.1;14;7;10;4;0;9;14;64.3;5;11;5;6;7;21;44;0;Matchs
+;Marco Bizot;nl NED;GB;Brest;33-307;1991;15.0;1;1;1;0;0;0;0;;0;0;0;0;0;1;12;0;Matchs
+;Ludovic Blas;fr FRA;MT,AT;Rennes;27-011;1997;14.5;19;14;3;6;10;12;23;52.2;11;11;2;9;5;24;4;0;Matchs
+;Augustine Boakye;gh GHA;MT,AT;Saint-Étienne;24-069;2000;4.5;6;2;3;3;0;3;9;33.3;6;2;0;2;4;10;2;0;Matchs
+;Jeremie Boga;ci CIV;MT,AT;Nice;28-008;1997;6.9;6;4;1;5;0;2;3;66.7;1;9;0;9;2;8;1;0;Matchs
+;Moïse Bombito;ca CAN;DF;Nice;24-287;2000;12.7;17;12;9;8;0;14;21;66.7;7;18;10;8;9;26;67;1;Matchs
+;Saïmon Bouabré;fr FRA;MT,AT;Monaco;18-224;2006;0.8;0;0;0;0;0;0;3;0.0;3;1;0;1;0;0;0;0;Matchs
+;Ayyoub Bouaddi;fr FRA;MT;Lille;17-101;2007;6.5;24;16;13;6;5;8;15;53.3;7;4;0;4;6;30;6;0;Matchs
+;Badredine Bouanani;dz ALG;MT,AT;Nice;20-034;2004;6.3;5;2;2;2;1;1;7;14.3;6;10;2;8;5;10;3;0;Matchs
+;Benjamin Bouchouari;ma MAR;MT;Saint-Étienne;23-059;2001;8.2;15;12;5;7;3;9;19;47.4;10;7;1;6;9;24;6;1;Matchs
+;Hicham Boudaoui;dz ALG;MT;Nice;25-110;1999;11.9;35;19;15;14;6;15;26;57.7;11;18;4;14;13;48;23;0;Matchs
+;Benjamin Bourigeaud;fr FRA;MT;Rennes;30-363;1994;0.9;1;0;0;1;0;0;2;0.0;2;2;1;1;2;3;1;0;Matchs
+;Bilal Brahimi;dz ALG;MT;Nice;24-303;2000;0.8;0;0;0;0;0;0;0;;0;1;0;1;0;0;2;0;Matchs
+;Lilian Brassier;fr FRA;DF;Marseille;25-070;1999;7.0;6;5;6;0;0;3;4;75.0;1;7;2;5;4;10;25;1;Matchs
+;Aurélio Buta;pt POR;DF;Reims;27-336;1997;10.9;26;16;15;9;2;14;26;53.8;12;6;0;6;11;37;25;0;Matchs
+;Marcin Bułka;pl POL;GB;Nice;25-099;1999;16.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;7;4;Matchs
+;Rémy Cabella;fr FRA;AT,MT;Lille;34-309;1990;7.1;27;14;10;9;8;16;24;66.7;8;6;1;5;7;34;2;0;Matchs
+;Mathieu Cafaro;fr FRA;MT,AT;Saint-Étienne;27-292;1997;7.6;8;6;4;3;1;3;13;23.1;10;6;1;5;7;15;3;0;Matchs
+;Duje Ćaleta-Car;hr CRO;DF;Lyon;28-116;1996;12.9;15;8;8;7;0;8;14;57.1;6;24;19;5;12;27;67;2;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Issiaga Camara;gn GUI;MT;Nice;19-344;2005;0.2;2;1;0;2;0;0;1;0.0;1;0;0;0;3;5;0;0;Matchs
+;Lamine Camara;sn SEN;MT;Monaco;21-010;2004;11.3;41;29;14;21;6;17;30;56.7;13;21;4;17;19;60;13;1;Matchs
+;Mahdi Camara;fr FRA;MT;Brest;26-195;1998;12.5;38;18;5;22;11;11;20;55.0;9;20;2;18;13;51;14;0;Matchs
+;Axel Camblan;fr FRA;MT,AT;Brest;21-134;2003;0.3;1;1;0;0;1;1;2;50.0;1;1;0;1;0;1;0;0;Matchs
+;Jaydee Canvot;fr FRA;MT,DF;Toulouse;18-166;2006;1.0;1;1;1;0;0;1;2;50.0;1;1;1;0;0;1;3;0;Matchs
+;Pierrick Capelle;fr FRA;MT;Angers;37-271;1987;3.1;11;7;4;5;2;3;7;42.9;4;2;1;1;6;17;1;1;Matchs
+;Gabin Capuano;fr FRA;AT;Lens;18-260;2006;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Maxence Caqueret;fr FRA;MT;Lyon;24-331;2000;6.4;21;11;5;11;5;4;22;18.2;18;12;2;10;7;28;2;0;Matchs
+;Valentin Carboni;ar ARG;MT,AT;Marseille;19-312;2005;1.1;2;2;0;1;1;0;1;0.0;1;1;0;1;1;3;1;0;Matchs
+;Patrik Carlgren;se SWE;GB;Nantes;33-003;1992;3.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Josué Casimir;fr FRA;AT,DF;Le Havre;23-109;2001;7.5;15;9;5;8;2;4;9;44.4;5;7;0;7;1;16;16;1;Matchs
+;Cristian Cásseres Jr.;ve VEN;MT;Toulouse;24-357;2000;13.3;51;32;27;20;4;21;42;50.0;21;19;3;16;23;74;18;1;Matchs
+;Jean-Charles Castelletto;cm CMR;DF;Nantes;29-351;1995;14.8;14;6;5;8;1;9;14;64.3;5;12;8;4;12;26;76;0;Matchs
+;Fabien Centonze;fr FRA;DF;Nantes;28-361;1996;0.9;3;1;1;1;1;1;3;33.3;2;1;0;1;1;4;7;0;Matchs
+;Brendan Chardonnet;fr FRA;DF;Brest;30-020;1994;14.0;21;14;8;10;3;13;22;59.1;9;16;10;6;14;35;72;2;Matchs
+;Jhoanner Chávez;ec ECU;DF,MT;Lens;22-261;2002;6.6;9;5;4;4;1;2;7;28.6;5;10;1;9;6;15;13;0;Matchs
+;Théo Chennahi;fr FRA;MT,DF;Montpellier;19-340;2005;0.1;0;0;0;0;0;0;0;;0;1;0;1;0;0;0;0;Matchs
+;Sidiki Cherif;fr FRA;AT;Angers;18-027;2006;3.1;4;4;0;3;1;3;4;75.0;1;2;0;2;0;4;0;1;Matchs
+;Rayan Cherki;fr FRA;AT,MT;Lyon;21-147;2003;7.3;6;5;1;4;1;2;8;25.0;6;3;0;3;3;9;3;0;Matchs
+;Lucas Chevalier;fr FRA;GB;Lille;23-066;2001;17.0;2;2;2;0;0;2;3;66.7;1;0;0;0;0;2;3;0;Matchs
+;Pedro Chirivella;es ESP;MT;Nantes;27-233;1997;13.8;22;17;11;10;1;9;19;47.4;10;6;0;6;7;29;28;0;Matchs
+;Joris Chotard;fr FRA;MT;Montpellier;23-109;2001;7.5;20;13;7;13;0;11;19;57.9;8;10;2;8;9;29;16;0;Matchs
+;Yoann Cissé;fr FRA;MT;Auxerre;20-029;2004;0.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Jonathan Clauss;fr FRA;DF,MT;Nice;32-108;1992;9.5;27;19;15;11;1;16;26;61.5;10;12;2;10;19;46;30;0;Matchs
+;Marcus Coco;fr FRA;DF;Nantes;28-201;1996;5.0;15;15;6;7;2;8;18;44.4;10;6;2;4;3;18;12;0;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Alois Confais;fr FRA;MT;Le Havre;28-126;1996;0.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Derek Cornelius;ca CAN;DF;Marseille;27-047;1997;7.0;10;6;7;3;0;8;10;80.0;2;7;3;4;6;16;27;0;Matchs
+;Pierre Cornud;fr FRA;DF;Saint-Étienne;28-030;1996;4.2;8;8;4;3;1;7;11;63.6;4;4;1;3;5;13;13;1;Matchs
+;David Costa;pt POR;MT;Lens;24-006;2001;3.6;2;0;1;1;0;1;4;25.0;3;5;1;4;1;3;0;0;Matchs
+;Logan Costa;cv CPV;DF;Toulouse;23-285;2001;1.0;2;1;0;2;0;1;1;100.0;0;2;2;0;2;4;4;0;Matchs
+;Grégoire Coudert;fr FRA;GB;Brest;25-283;1999;1.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;1;0;Matchs
+;Lasso Coulibaly;gh GHA;AT,MT;Auxerre;22-084;2002;0.4;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Soumaïla Coulibaly;fr FRA;DF;Brest;21-089;2003;3.6;2;2;0;2;0;0;0;;0;4;1;3;5;7;13;0;Matchs
+;Tanguy Coulibaly;fr FRA;AT,MT;Montpellier;23-328;2001;4.9;9;6;2;6;1;2;8;25.0;6;3;0;3;4;13;0;0;Matchs
+;Nicolas Cozza;fr FRA;DF,MT;Nantes;26-003;1999;12.3;29;19;14;12;3;14;25;56.0;11;12;3;9;13;42;37;0;Matchs
+;Charlie Cresswell;eng ENG;DF;Toulouse;22-147;2002;12.8;15;7;8;7;0;14;25;56.0;11;22;14;8;16;31;83;2;Matchs
+;Kévin Danois;fr FRA;MT;Auxerre;20-197;2004;9.8;35;22;15;15;5;13;32;40.6;19;6;0;6;15;50;14;0;Matchs
+;Kevin Danso;at AUT;DF;Lens;26-114;1998;11.0;17;6;12;4;1;10;14;71.4;4;24;18;6;19;36;59;1;Matchs
+;Dante;br BRA;DF;Nice;41-085;1983;8.3;19;8;9;8;2;10;15;66.7;5;5;1;4;11;30;26;0;Matchs
+;Pape Daouda Diongue;sn SEN;MT,AT;Strasbourg;;;0.8;1;0;0;1;0;0;0;;0;0;0;0;3;4;2;0;Matchs
+;Mohammed Daramy;dk DEN;AT;Reims;23-004;2002;0.2;0;0;0;0;0;0;0;;0;0;0;0;0;0;1;0;Matchs
+;Jonathan David;ca CAN;AT;Lille;24-363;2000;15.1;12;3;2;7;3;4;10;40.0;6;7;2;5;3;15;4;0;Matchs
+;Zuriko Davitashvili;ge GEO;MT,AT;Saint-Étienne;23-331;2001;14.2;10;5;3;5;2;8;23;34.8;15;8;0;8;9;19;3;0;Matchs
+;Théo De Percin;mq MTQ;GB;Auxerre;23-344;2001;2.0;0;0;0;0;0;0;1;0.0;1;0;0;0;0;0;3;0;Matchs
+;Thibault De Smet;be BEL;DF;Reims;26-220;1998;2.0;5;4;5;0;0;3;3;100.0;0;5;3;2;4;9;12;0;Matchs
+;Romain Del Castillo;fr FRA;AT;Brest;28-288;1996;9.6;20;13;4;8;8;13;22;59.1;9;12;0;12;5;25;1;0;Matchs
+;Ousmane Dembélé;fr FRA;AT;Paris S-G;27-241;1997;10.0;5;2;0;2;3;2;6;33.3;4;1;0;1;7;12;0;1;Matchs
+;Arthur Desmas;fr FRA;GB;Le Havre;30-279;1994;16.0;0;0;0;0;0;0;1;0.0;1;0;0;0;0;0;7;1;Matchs
+;Mamadou Diakhon;fr FRA;AT,MT;Reims;19-111;2005;1.8;5;5;2;0;3;4;5;80.0;1;0;0;0;1;6;1;0;Matchs
+;Bafodé Diakité;fr FRA;DF;Lille;24-005;2001;17.0;17;11;11;4;2;13;19;68.4;6;15;8;7;16;33;46;3;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Oumar Diakité;ci CIV;AT;Reims;21-022;2003;12.5;15;10;7;5;3;7;14;50.0;7;8;1;7;2;17;6;0;Matchs
+;Habib Diarra;sn SEN;MT,AT;Strasbourg;21-008;2004;14.2;11;7;1;8;2;5;9;55.6;4;8;2;6;4;15;19;1;Matchs
+;Krépin Diatta;sn SEN;DF;Monaco;25-321;1999;2.2;11;7;8;1;2;7;13;53.8;6;4;1;3;3;14;7;1;Matchs
+;Kandet Diawara;gn GUI;AT;Le Havre;24-336;2000;0.0;0;0;0;0;0;0;0;;0;1;0;1;0;0;1;0;Matchs
+;Mahamadou Diawara;fr FRA;MT;Lyon;19-329;2005;0.2;1;0;0;1;0;1;3;33.3;2;2;0;2;0;1;0;0;Matchs
+;Bamba Dieng;sn SEN;AT;Angers;24-294;2000;4.3;3;0;1;1;1;0;0;;0;1;0;1;0;3;3;0;Matchs
+;Kembo Diliwidi;fr FRA;DF;Lens;18-343;2006;0.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Sinaly Diomande;ci CIV;DF;Auxerre;23-277;2001;9.8;13;8;6;6;1;10;14;71.4;4;18;12;6;10;23;38;0;Matchs
+;Lois Diony;fr FRA;AT;Angers;32-022;1992;0.2;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Sofiane Diop;fr FRA;MT,AT;Nice;24-216;2000;6.2;18;12;13;2;3;8;17;47.1;9;15;2;13;10;28;7;0;Matchs
+;Andy Diouf;fr FRA;MT;Lens;21-239;2003;12.4;19;13;4;12;3;11;21;52.4;10;17;1;16;8;27;8;0;Matchs
+;Yehvann Diouf;fr FRA;GB;Reims;25-056;1999;16.0;1;1;1;0;0;1;3;33.3;2;0;0;0;0;1;5;1;Matchs
+;Assane Dioussé;sn SEN;MT;Auxerre;27-113;1997;1.9;5;2;3;2;0;3;6;50.0;3;1;0;1;4;9;5;0;Matchs
+;Álex Domínguez;es ESP;GB;Toulouse;26-165;1998;0.2;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Gianluigi Donnarumma;it ITA;GB;Paris S-G;25-321;1999;11.2;1;1;1;0;0;1;1;100.0;0;0;0;0;0;1;5;0;Matchs
+;Désiré Doué;fr FRA;AT;Paris S-G;19-222;2005;6.5;8;6;2;5;1;3;13;23.1;10;5;0;5;3;11;4;0;Matchs
+;Guela Doué;ci CIV;DF;Strasbourg;22-086;2002;15.0;30;22;19;4;7;19;26;73.1;7;13;0;13;23;53;72;0;Matchs
+;Douglas;br BRA;MT;Nantes;27-364;1997;14.4;37;22;14;18;5;14;28;50.0;14;32;8;24;10;47;19;0;Matchs
+;Ismaël Doukouré;fr FRA;MT,DF;Strasbourg;21-171;2003;12.8;22;9;11;11;0;10;13;76.9;3;16;6;10;13;35;48;2;Matchs
+;Kamory Doumbia;ml MLI;MT,AT;Brest;21-328;2003;6.5;19;14;8;9;2;9;19;47.4;10;5;0;5;13;32;6;0;Matchs
+;Amidou Doumbouya;fr FRA;DF;Nice;17-159;2007;0.5;1;1;0;0;1;1;1;100.0;0;3;1;2;1;2;1;0;Matchs
+;Jean-Kevin Duverne;ht HAI;DF;Nantes;27-183;1997;6.0;21;12;13;4;4;15;27;55.6;12;10;3;7;8;29;23;0;Matchs
+;Stefan Džodić;rs SRB;DF,MT;Montpellier;19-302;2005;2.1;6;3;3;3;0;4;6;66.7;2;3;2;1;4;10;7;0;Matchs
+;Aron Dønnum;no NOR;DF,MT;Toulouse;26-266;1998;13.0;18;10;6;8;4;8;22;36.4;14;14;2;12;11;29;22;0;Matchs
+;Jacques Ekomie;ga GAB;DF;Angers;21-145;2003;3.2;8;6;3;4;1;3;6;50.0;3;7;1;6;2;10;8;0;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Pierre Ekwah Elimby;fr FRA;MT,DF;Saint-Étienne;22-362;2002;12.7;21;12;10;11;0;13;21;61.9;8;11;7;4;19;40;44;0;Matchs
+;Breel Embolo;ch SUI;AT;Monaco;27-332;1997;10.1;6;5;2;2;2;1;8;12.5;7;4;0;4;1;7;3;0;Matchs
+;Emanuel Emegha;nl NED;AT;Strasbourg;21-343;2003;9.7;4;4;0;2;2;1;2;50.0;1;7;4;3;0;4;9;0;Matchs
+;Romain Faivre;fr FRA;MT,AT;Brest;26-181;1998;5.6;8;8;3;4;1;4;9;44.4;5;2;0;2;3;11;2;1;Matchs
+;Khalil Fayad;fr FRA;MT,AT;Montpellier;20-216;2004;3.1;15;7;6;9;0;5;8;62.5;3;4;0;4;1;16;4;0;Matchs
+;Zinedine Ferhat;dz ALG;AT,MT;Angers;31-316;1993;2.8;1;0;0;1;0;0;2;0.0;2;1;0;1;2;3;2;0;Matchs
+;Edimilson Fernandes;ch SUI;MT;Brest;28-271;1996;5.7;7;5;2;5;0;6;9;66.7;3;8;3;5;10;17;13;1;Matchs
+;Matias Fernandez-Pardo;be BEL;AT;Lille;19-343;2005;4.9;6;4;3;3;0;4;8;50.0;4;5;0;5;1;7;4;0;Matchs
+;Jordan Ferri;fr FRA;MT;Montpellier;32-305;1992;9.8;25;11;11;13;1;10;18;55.6;8;8;1;7;6;31;11;0;Matchs
+;Karol Fila;pl POL;MT;Strasbourg;26-212;1998;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Malick Fofana;be BEL;AT;Lyon;19-286;2005;10.0;14;8;6;7;1;7;13;53.8;6;8;0;8;7;21;6;0;Matchs
+;Seko Fofana;ci CIV;MT;Rennes;29-249;1995;0.3;1;1;0;1;0;0;0;;0;0;0;0;0;1;0;0;Matchs
+;Yahia Fofana;ci CIV;GB;Angers;24-143;2000;16.0;0;0;0;0;0;0;1;0.0;1;0;0;0;1;1;12;0;Matchs
+;Lamine Fomba;fr FRA;MT;Saint-Étienne;26-351;1998;0.8;4;3;2;2;0;1;2;50.0;1;4;1;3;2;6;3;1;Matchs
+;Przemysław Frankowski;pl POL;DF;Lens;29-274;1995;11.5;20;12;11;6;3;14;22;63.6;8;5;0;5;8;28;20;0;Matchs
+;Angelo Fulgini;fr FRA;MT,AT;Lens;28-144;1996;7.4;5;4;2;1;2;3;5;60.0;2;8;1;7;0;5;2;0;Matchs
+;Gauthier Gallon;fr FRA;GB;Rennes;31-263;1993;0.5;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Ignatius Ganago;cm CMR;AT,MT;Nantes;25-330;1999;2.7;1;1;0;1;0;1;2;50.0;1;3;1;2;4;5;2;0;Matchs
+;Ulisses Garcia;ch SUI;DF;Marseille;29-000;1996;4.6;9;7;4;4;1;3;10;30.0;7;3;0;3;2;11;8;0;Matchs
+;Jean-Philippe Gbamin;ci CIV;MT;Nantes;29-108;1995;2.3;2;1;0;2;0;1;4;25.0;3;4;1;3;3;5;2;0;Matchs
+;Yann Gboho;fr FRA;MT,AT;Toulouse;23-363;2001;14.2;20;8;6;9;5;10;18;55.6;8;11;0;11;4;24;3;0;Matchs
+;Denis Genreau;au AUS;MT,AT;Toulouse;25-235;1999;0.5;1;1;0;0;1;1;2;50.0;1;0;0;0;0;1;1;0;Matchs
+;Aleksandr Golovin;ru RUS;MT,AT;Monaco;28-226;1996;10.8;33;22;8;18;7;16;31;51.6;15;14;4;10;9;42;6;0;Matchs
+;André Gomes;pt POR;MT;Lille;31-165;1993;5.3;5;3;2;2;1;2;11;18.2;9;2;1;1;3;8;4;1;Matchs
+;Angel Gomes;eng ENG;MT;Lille;24-133;2000;7.1;8;4;4;2;2;2;10;20.0;8;0;0;0;0;8;2;0;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Carlos Gómez;co COL;MT,AT;Rennes;22-121;2002;3.1;7;6;2;4;1;3;7;42.9;4;3;0;3;1;8;2;0;Matchs
+;Amine Gouiri;dz ALG;MT,AT;Rennes;24-330;2000;10.0;8;5;4;3;1;2;7;28.6;5;7;0;7;1;9;3;0;Matchs
+;Jonathan Gradit;fr FRA;DF;Lens;32-048;1992;8.3;18;9;10;7;1;10;19;52.6;9;9;4;5;12;30;26;0;Matchs
+;Samuel Grandsir;fr FRA;MT,AT;Le Havre;28-150;1996;0.9;5;5;0;3;2;2;3;66.7;1;2;0;2;0;5;0;0;Matchs
+;Mason Greenwood;eng ENG;AT,MT;Marseille;23-102;2001;15.1;21;11;8;8;5;11;25;44.0;14;3;0;3;6;27;5;1;Matchs
+;Albert Grønbaek;dk DEN;MT,AT;Rennes;23-233;2001;8.8;21;11;10;7;4;10;28;35.7;18;8;0;8;4;25;6;0;Matchs
+;Gabriel Gudmundsson;se SWE;DF;Lille;25-257;1999;12.0;22;16;6;10;6;15;25;60.0;10;14;4;10;8;30;22;2;Matchs
+;Axel Gueguin;fr FRA;AT;Montpellier;19-293;2005;0.3;1;1;0;1;0;1;1;100.0;0;0;0;0;0;1;0;0;Matchs
+;Evann Guessand;ci CIV;AT,MT;Nice;23-194;2001;15.4;21;12;5;9;7;1;4;25.0;3;11;1;10;6;27;9;0;Matchs
+;Bahereba Guirassy;fr FRA;AT,MT;Nantes;18-135;2006;1.2;2;2;0;0;2;1;3;33.3;2;3;0;3;0;2;1;0;Matchs
+;Massadio Haïdara;ml MLI;DF;Brest;32-040;1992;7.2;8;4;5;3;0;4;12;33.3;8;4;0;4;11;19;32;0;Matchs
+;Achraf Hakimi;ma MAR;DF;Paris S-G;26-068;1998;13.4;32;25;14;11;7;20;32;62.5;12;13;0;13;19;51;9;2;Matchs
+;Florent Hanin;dz ALG;DF;Angers;34-342;1990;12.7;30;24;16;10;4;17;30;56.7;13;6;2;4;22;52;42;2;Matchs
+;Amine Harit;ma MAR;MT;Marseille;27-207;1997;5.2;7;6;0;5;2;1;2;50.0;1;6;0;6;3;10;1;1;Matchs
+;Hans Hateboer;nl NED;DF;Rennes;31-002;1994;11.3;19;11;10;5;4;9;20;45.0;11;13;4;9;16;35;31;0;Matchs
+;Luis Henrique;br BRA;AT,DF;Marseille;23-028;2001;13.6;9;5;3;5;1;5;5;100.0;0;10;2;8;5;14;16;0;Matchs
+;Lucas Hernández;fr FRA;DF;Paris S-G;28-332;1996;0.6;3;1;2;1;0;3;6;50.0;3;0;0;0;1;4;1;0;Matchs
+;Ki-Jana Hoever;nl NED;DF;Auxerre;22-359;2002;11.3;24;18;14;7;3;13;24;54.2;11;16;1;15;11;35;33;0;Matchs
+;Cédric Hountondji;bj BEN;DF;Angers;30-358;1994;3.0;6;4;4;2;0;3;7;42.9;4;3;3;0;4;10;14;0;Matchs
+;Ilyes Housni;fr FRA;AT;Le Havre;19-242;2005;2.2;6;4;1;3;2;2;4;50.0;2;2;0;2;1;7;2;0;Matchs
+;Pierre Højbjerg;dk DEN;MT;Marseille;29-159;1995;14.9;36;26;17;15;4;22;44;50.0;22;17;4;13;22;58;22;1;Matchs
+;George Ilenikhena;fr FRA;AT;Monaco;18-148;2006;6.1;1;1;0;1;0;0;1;0.0;1;0;0;0;1;2;0;0;Matchs
+;Rareş Ilie;ro ROU;MT;Nice;21-267;2003;0.1;1;1;1;0;0;1;1;100.0;0;0;0;0;0;1;0;0;Matchs
+;Ismaily;br BRA;DF;Lille;35-000;1990;1.8;8;3;4;1;3;2;5;40.0;3;4;0;4;1;9;6;0;Matchs
+;Yanis Issoufou;fr FRA;MT,AT;Montpellier;18-075;2006;0.9;6;4;4;1;1;3;5;60.0;2;1;0;1;0;6;1;0;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Junya Ito;jp JPN;AT;Reims;31-308;1993;15.6;20;15;6;9;5;6;30;20.0;24;20;0;20;6;26;4;1;Matchs
+;Ismail Jakobs;sn SEN;DF;Monaco;25-147;1999;2.0;5;5;3;0;2;3;5;60.0;2;0;0;0;2;7;6;0;Matchs
+;Jordan James;wls WAL;MT;Rennes;20-193;2004;4.4;8;4;3;4;1;6;10;60.0;4;5;0;5;7;15;5;0;Matchs
+;Karl-Johan Johnsson;se SWE;GB;Strasbourg;34-349;1990;3.0;0;0;0;0;0;0;1;0.0;1;0;0;0;0;0;3;0;Matchs
+;Paul Joly;fr FRA;DF;Auxerre;24-218;2000;6.5;25;15;14;10;1;13;28;46.4;15;6;0;6;17;42;20;5;Matchs
+;Jota;pt POR;AT,MT;Rennes;25-287;1999;3.7;5;2;2;3;0;4;7;57.1;3;1;0;1;3;8;2;0;Matchs
+;Antoine Joujou;fr FRA;MT,AT;Le Havre;21-305;2003;4.4;6;5;4;1;1;2;4;50.0;2;9;2;7;5;11;3;0;Matchs
+;Jubal;br BRA;DF;Auxerre;31-135;1993;14.4;29;21;25;3;1;15;25;60.0;10;35;18;17;10;39;83;1;Matchs
+;Hamed Junior Traorè;ci CIV;MT;Auxerre;24-330;2000;13.0;24;11;6;12;6;9;33;27.3;24;5;0;5;4;28;7;0;Matchs
+;Yaya Kader Fofana;ml MLI;MT,AT;Reims;20-213;2004;7.0;17;11;8;5;4;4;12;33.3;8;11;2;9;3;20;2;0;Matchs
+;Tino Kadewere;zw ZIM;MT,AT;Nantes;29-006;1996;5.3;13;7;4;3;6;6;12;50.0;6;3;0;3;5;18;8;0;Matchs
+;Arnaud Kalimuendo;fr FRA;AT;Rennes;22-357;2002;13.1;7;5;2;3;2;3;4;75.0;1;4;1;3;2;9;5;0;Matchs
+;Waren Kamanzi;no NOR;DF,MT;Toulouse;24-061;2000;7.6;24;12;10;11;3;12;21;57.1;9;2;0;2;5;29;18;0;Matchs
+;Glen Kamara;fi FIN;MT;Rennes;29-075;1995;7.4;23;11;10;11;2;11;17;64.7;6;7;0;7;7;30;7;0;Matchs
+;Nordine Kandil;fr FRA;MT;Strasbourg;23-072;2001;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;1;0;Matchs
+;Lee Kang-in;kr KOR;AT,MT;Paris S-G;23-327;2001;10.1;15;10;5;5;5;13;22;59.1;9;2;0;2;1;16;3;0;Matchs
+;Yassine Kechta;ma MAR;MT,AT;Le Havre;22-321;2002;11.4;32;19;15;14;3;17;45;37.8;28;16;2;14;12;44;11;1;Matchs
+;Thilo Kehrer;de GER;DF;Monaco;28-112;1996;14.0;27;19;20;7;0;16;27;59.3;11;9;6;3;16;43;67;1;Matchs
+;Reda Khadra;de GER;MT,AT;Reims;23-191;2001;0.9;1;1;1;0;0;0;1;0.0;1;0;0;0;0;1;1;0;Matchs
+;Wahbi Khazri;tn TUN;AT,MT;Montpellier;33-338;1991;7.5;16;11;4;9;3;5;11;45.5;6;5;1;4;4;20;5;0;Matchs
+;Abdukodir Khusanov;uz UZB;DF;Lens;20-317;2004;10.8;15;11;9;5;1;7;11;63.6;4;17;11;6;26;41;57;0;Matchs
+;Joshua King;no NOR;AT,MT;Toulouse;32-362;1992;10.0;6;6;2;2;2;2;6;33.3;4;5;2;3;2;8;11;0;Matchs
+;Cédric Kipré;ci CIV;DF;Reims;28-033;1996;10.8;22;15;17;5;0;17;24;70.8;7;17;8;9;15;37;62;1;Matchs
+;Hervé Koffi;bf BFA;GB;Lens;28-087;1996;1.0;1;1;1;0;0;1;1;100.0;0;0;0;0;0;1;0;0;Matchs
+;Philipp Köhn;ch SUI;GB;Monaco;26-284;1998;10.0;0;0;0;0;0;0;1;0.0;1;0;0;0;0;0;6;0;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Randal Kolo Muani;fr FRA;AT;Paris S-G;26-037;1998;4.0;4;4;1;1;2;0;2;0.0;2;1;0;1;0;4;5;0;Matchs
+;Geoffrey Kondogbia;cf CTA;DF,MT;Marseille;31-331;1993;12.2;34;20;20;13;1;21;24;87.5;3;11;1;10;11;45;36;2;Matchs
+;Abdoul Koné;fr FRA;DF;Reims;19-264;2005;1.2;5;3;4;1;0;3;5;60.0;2;2;1;1;1;6;4;0;Matchs
+;Amadou Koné;ml MLI;MT;Reims;19-242;2005;5.9;22;15;12;10;0;10;14;71.4;4;9;2;7;8;30;7;0;Matchs
+;Ismaël Koné;ca CAN;MT,AT;Marseille;22-219;2002;4.0;8;4;3;3;2;3;4;75.0;1;4;1;3;4;12;2;1;Matchs
+;Emmanuel Koum Mbondo;fr FRA;DF;Marseille;18-341;2006;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Boubakar Kouyaté;ml MLI;DF;Montpellier;27-271;1997;1.2;4;1;3;1;0;3;5;60.0;2;0;0;0;3;7;5;0;Matchs
+;Sael Kumbedi;fr FRA;DF;Lyon;19-291;2005;2.0;5;2;1;3;1;4;5;80.0;1;0;0;0;4;9;5;0;Matchs
+;Daler Kuzyaev;ru RUS;MT;Le Havre;31-362;1993;6.3;13;8;7;4;2;2;9;22.2;7;7;4;3;9;22;8;0;Matchs
+;Rémy Labeau Lascary;gp GLP;AT,MT;Lens;21-314;2003;7.1;16;10;7;6;3;5;11;45.5;6;5;0;5;1;17;7;0;Matchs
+;Gaëtan Laborde;fr FRA;AT;Nice;30-253;1994;5.1;8;5;5;3;0;4;10;40.0;6;5;0;5;3;11;3;0;Matchs
+;Alexandre Lacazette;fr FRA;AT;Lyon;33-228;1991;11.5;6;3;1;4;1;3;10;30.0;7;5;0;5;3;9;3;0;Matchs
+;Alban Lafont;fr FRA;GB;Nantes;25-354;1999;12.0;1;1;1;0;0;1;1;100.0;0;2;0;2;0;1;8;1;Matchs
+;Kenny Lala;mg MAD;DF;Brest;33-100;1991;12.8;35;23;20;11;4;23;36;63.9;13;18;8;10;11;46;28;0;Matchs
+;Mohamed Lamine Bayo;gn GUI;AT,MT;Lille;26-221;1998;2.5;0;0;0;0;0;0;0;;0;0;0;0;0;0;1;0;Matchs
+;Gautier Larsonneur;fr FRA;GB;Saint-Étienne;27-323;1997;16.0;1;0;1;0;0;0;1;0.0;1;0;0;0;0;1;12;0;Matchs
+;Julien Le Cardinal;fr FRA;DF;Brest;27-161;1997;8.8;14;9;8;6;0;6;10;60.0;4;11;8;3;24;38;39;0;Matchs
+;Jérémy Le Douaron;fr FRA;AT;Brest;26-265;1998;1.1;1;0;0;0;1;0;1;0.0;1;1;0;1;0;1;0;0;Matchs
+;Benjamin Lecomte;fr FRA;GB;Montpellier;33-260;1991;13.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;7;0;Matchs
+;Pierre Lees-Melou;fr FRA;MT;Brest;31-231;1993;3.9;11;7;3;5;3;7;10;70.0;3;4;2;2;4;15;2;0;Matchs
+;Jordan Lefort;fr FRA;DF;Angers;31-155;1993;16.0;28;18;21;6;1;16;26;61.5;10;25;12;13;15;43;90;1;Matchs
+;Félix Lemaréchal;fr FRA;AT,MT;Strasbourg;21-157;2003;3.8;11;9;2;7;2;3;5;60.0;2;6;0;6;5;16;3;0;Matchs
+;Donovan Léon;gf GUF;GB;Auxerre;32-069;1992;15.0;0;0;0;0;0;0;2;0.0;2;0;0;0;0;0;9;1;Matchs
+;Esteban Lepaul;fr FRA;AT,MT;Angers;24-268;2000;3.3;1;1;0;0;1;0;6;0.0;6;8;1;7;2;3;2;0;Matchs
+;Johann Lepenant;fr FRA;MT;Nantes;22-081;2002;11.7;37;21;13;18;6;13;33;39.4;20;12;2;10;10;47;8;0;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Louis Leroux;fr FRA;MT,AT;Nantes;18-354;2006;0.2;1;1;1;0;0;1;1;100.0;0;0;0;0;0;1;0;0;Matchs
+;Pol Lirola;es ESP;DF;Marseille;27-151;1997;4.0;8;5;4;4;0;3;9;33.3;6;4;2;2;0;8;5;0;Matchs
+;Gautier Lloris;fr FRA;DF;Le Havre;29-177;1995;16.0;40;26;28;12;0;22;34;64.7;12;14;5;9;11;51;82;0;Matchs
+;Andy Logbo;fr FRA;AT;Le Havre;20-250;2004;0.3;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Anthony Lopes;pt POR;GB;Nantes;34-102;1990;2.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;2;0;Matchs
+;Jordan Lotomba;ch SUI;MT,DF;Nice;26-104;1998;0.4;0;0;0;0;0;0;0;;0;0;0;0;0;0;1;0;Matchs
+;Tom Louchet;fr FRA;DF,MT;Nice;21-252;2003;5.3;18;12;12;2;4;12;14;85.7;2;8;3;5;6;24;13;0;Matchs
+;Milos Lukovic;rs SRB;AT,MT;Strasbourg;19-054;2005;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Othmane Maamma;ma MAR;AT,MT;Montpellier;19-097;2005;0.7;0;0;0;0;0;0;1;0.0;1;2;0;2;0;0;1;0;Matchs
+;Deiver Machado;co COL;DF,MT;Lens;31-131;1993;6.9;13;10;8;4;1;9;10;90.0;1;7;1;6;5;18;8;0;Matchs
+;Yvann Macon;fr FRA;DF;Saint-Étienne;26-102;1998;3.2;4;3;0;3;1;1;5;20.0;4;7;2;5;0;4;6;1;Matchs
+;Eros Maddy;nl NED;DF;Auxerre;23-341;2001;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Soungoutou Magassa;fr FRA;MT;Monaco;21-095;2003;7.3;26;14;6;18;2;15;27;55.6;12;6;1;5;13;39;12;1;Matchs
+;Hugo Magnetti;fr FRA;MT;Brest;26-226;1998;12.0;21;13;7;13;1;8;19;42.1;11;10;3;7;7;28;11;0;Matchs
+;Frank Magri;cm CMR;AT;Toulouse;25-129;1999;4.1;1;0;0;0;1;1;4;25.0;3;9;0;9;1;2;4;0;Matchs
+;Ainsley Maitland-Niles;eng ENG;DF;Lyon;27-135;1997;12.1;37;22;15;12;10;24;37;64.9;13;17;2;15;17;54;28;5;Matchs
+;Radosław Majecki;pl POL;GB;Monaco;25-056;1999;7.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;5;0;Matchs
+;Nikola Maksimović;rs SRB;DF;Montpellier;33-047;1991;6.5;9;5;6;3;0;6;7;85.7;1;5;4;1;6;15;30;1;Matchs
+;Hianga Mananga Mbock;fr FRA;MT;Brest;25-014;1999;0.2;0;0;0;0;0;0;0;;0;0;0;0;1;1;0;0;Matchs
+;Steve Mandanda;fr FRA;GB;Rennes;39-289;1985;15.5;0;0;0;0;0;0;1;0.0;1;0;0;0;0;0;6;2;Matchs
+;Aïssa Mandi;dz ALG;DF;Lille;33-081;1991;11.3;17;10;4;10;3;10;15;66.7;5;16;8;8;8;25;25;0;Matchs
+;Orel Mangala;be BEL;MT;Lyon;26-299;1998;0.7;1;0;0;0;1;0;1;0.0;1;2;0;2;0;1;1;0;Matchs
+;Sekou Mara;fr FRA;AT,MT;Strasbourg;22-165;2002;6.7;8;5;0;4;4;2;7;28.6;5;7;0;7;3;11;2;0;Matchs
+;Marquinhos;br BRA;DF;Paris S-G;30-242;1994;11.3;18;12;6;8;4;14;18;77.8;4;15;6;9;7;25;34;0;Matchs
+;Jonas Martin;fr FRA;MT;Brest;34-277;1990;5.1;11;5;8;2;1;5;10;50.0;5;3;0;3;6;17;11;1;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Han-Noah Massengo;fr FRA;MT;Auxerre;23-188;2001;0.3;1;1;1;0;0;1;1;100.0;0;0;0;0;0;1;0;0;Matchs
+;Clinton Mata;ao ANG;DF;Lyon;32-065;1992;12.1;21;13;12;8;1;17;21;81.0;4;10;6;4;19;40;28;2;Matchs
+;Eliot Matazo;be BEL;MT;Monaco;22-331;2002;0.8;3;2;0;3;0;0;0;;0;0;0;0;1;4;2;0;Matchs
+;Nemanja Matić;rs SRB;MT;Lyon;36-163;1988;11.1;20;17;5;13;2;10;19;52.6;9;15;6;9;9;29;14;1;Matchs
+;Azor Matusiwa;nl NED;MT;Rennes;26-258;1998;13.2;40;22;18;20;2;21;28;75.0;7;16;5;11;21;61;28;0;Matchs
+;Neal Maupay;fr FRA;AT;Marseille;28-150;1996;7.4;7;3;1;5;1;3;3;100.0;0;4;0;4;0;7;0;0;Matchs
+;Christian Mawissa;fr FRA;DF;Monaco;19-268;2005;5.2;18;11;8;8;2;13;20;65.0;7;10;1;9;13;31;6;0;Matchs
+;Senny Mayulu;fr FRA;MT,DF;Paris S-G;18-239;2006;2.1;9;5;4;4;1;3;6;50.0;3;5;3;2;2;11;3;0;Matchs
+;Ethan Mbappé;fr FRA;MT,AT;Lille;18-013;2006;0.9;1;0;0;1;0;0;2;0.0;2;4;0;4;0;1;0;0;Matchs
+;Ibrahim Mbaye;fr FRA;AT,MT;Paris S-G;16-353;2008;1.0;0;0;0;0;0;0;3;0.0;3;0;0;0;0;0;0;0;Matchs
+;Mark McKenzie;us USA;DF;Toulouse;25-321;1999;13.7;24;14;13;11;0;16;23;69.6;7;15;11;4;11;35;61;0;Matchs
+;Facundo Medina;ar ARG;DF,MT;Lens;25-228;1999;13.7;28;19;14;12;2;13;21;61.9;8;13;4;9;18;46;30;0;Matchs
+;Henrik Meister;dk DEN;AT;Rennes;21-055;2003;0.7;2;0;0;2;0;0;0;;0;4;0;4;1;3;0;0;Matchs
+;Bamo Meïté;ci CIV;DF,MT;Marseille;23-039;2001;0.3;0;0;0;0;0;0;0;;0;0;0;0;0;0;1;0;Matchs
+;Mohamed Meité;fr FRA;AT;Rennes;17-092;2007;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Farid El Melali;dz ALG;AT;Angers;27-251;1997;11.4;18;8;8;5;5;7;23;30.4;16;10;1;9;8;26;8;1;Matchs
+;Nuno Mendes;pt POR;DF;Paris S-G;22-206;2002;7.0;13;9;5;7;1;9;15;60.0;6;10;5;5;5;18;12;0;Matchs
+;Antoine Mendy;fr FRA;DF;Nice;20-229;2004;5.5;22;15;11;11;0;14;21;66.7;7;7;3;4;5;27;19;0;Matchs
+;Nampalys Mendy;sn SEN;MT;Lens;32-202;1992;1.2;4;2;3;1;0;2;5;40.0;3;2;1;1;1;5;0;0;Matchs
+;Gideon Mensah;gh GHA;DF;Auxerre;26-177;1998;11.3;27;17;17;7;3;13;31;41.9;18;10;1;9;26;53;33;0;Matchs
+;Quentin Merlin;fr FRA;DF,MT;Marseille;22-240;2002;7.0;7;6;4;2;1;2;7;28.6;5;5;1;4;7;14;7;1;Matchs
+;Rafik Messali;fr FRA;MT;Toulouse;21-258;2003;0.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Thomas Meunier;be BEL;DF;Lille;33-121;1991;7.1;17;12;13;3;1;10;15;66.7;5;10;3;7;12;29;24;0;Matchs
+;Lucas Michel;fr FRA;MT;Monaco;20-266;2004;0.3;;1;;;;;;;;;;;0;;;;Matchs
+;Georges Mikautadze;ge GEO;AT;Lyon;24-072;2000;6.6;5;4;1;2;2;2;5;40.0;3;2;0;2;2;7;0;0;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Igor Miladinović;rs SRB;AT;Saint-Étienne;21-217;2003;0.2;0;0;0;0;0;0;0;;0;0;0;0;1;1;1;0;Matchs
+;Takumi Minamino;jp JPN;MT,AT;Monaco;29-361;1995;10.7;11;6;2;5;4;3;13;23.1;10;9;1;8;4;15;8;0;Matchs
+;Lucas Mincarelli;fr FRA;DF;Montpellier;21-006;2004;2.8;4;4;1;2;1;1;5;20.0;4;1;1;0;1;5;8;0;Matchs
+;Mostafa Mohamed;eg EGY;AT;Nantes;27-044;1997;5.8;8;5;3;4;1;2;7;28.6;5;3;0;3;2;10;12;0;Matchs
+;Florent Mollet;fr FRA;MT,AT;Nantes;33-053;1991;1.8;1;1;1;0;0;1;1;100.0;0;2;0;2;1;2;2;0;Matchs
+;Diego Moreira;pt POR;DF,MT;Strasbourg;20-158;2004;14.1;20;14;6;10;4;9;19;47.4;10;9;1;8;14;34;32;0;Matchs
+;Gabriel Moscardo;br BRA;MT;Reims;19-105;2005;0.4;2;0;2;0;0;1;3;33.3;2;1;1;0;0;2;0;0;Matchs
+;Yael Mouanga;fr FRA;DF;Montpellier;19-172;2005;1.0;2;2;2;0;0;1;1;100.0;0;3;3;0;0;2;7;0;Matchs
+;Aimen Moueffek;fr FRA;MT;Saint-Étienne;23-277;2001;5.5;11;6;3;7;1;3;11;27.3;8;6;3;3;2;13;17;0;Matchs
+;Youssoufa Moukoko;de GER;AT,MT;Nice;20-052;2004;2.1;1;0;1;0;0;0;1;0.0;1;0;0;0;0;1;0;0;Matchs
+;Louis Mouton;fr FRA;MT;Saint-Étienne;22-222;2002;7.0;18;9;8;6;4;6;12;50.0;6;4;1;3;8;26;12;0;Matchs
+;Ngal'Ayel Mukau;cd COD;MT;Lille;20-042;2004;6.9;20;11;6;12;2;12;19;63.2;7;9;0;9;12;32;11;0;Matchs
+;Marshall Munetsi;zw ZIM;MT;Reims;28-203;1996;14.8;24;13;14;6;4;16;27;59.3;11;21;3;18;15;39;21;0;Matchs
+;Junior Mwanga;fr FRA;MT;Strasbourg;21-245;2003;3.3;17;9;9;7;1;5;9;55.6;4;2;0;2;2;19;2;0;Matchs
+;Djylian N'Guessan;fr FRA;AT;Saint-Étienne;16-134;2008;0.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Mickael Nade;fr FRA;DF;Saint-Étienne;25-313;1999;7.6;23;16;14;9;0;12;12;100.0;0;15;6;9;13;36;36;2;Matchs
+;Bilal Nadir;fr FRA;MT;Marseille;21-044;2003;0.7;1;0;0;1;0;0;0;;0;1;0;1;0;1;1;0;Matchs
+;Mahamadou Nagida;cm CMR;DF;Rennes;19-197;2005;3.6;6;5;4;1;1;3;3;100.0;0;3;0;3;8;14;5;0;Matchs
+;Keito Nakamura;jp JPN;AT;Reims;24-167;2000;13.8;15;10;6;5;4;7;16;43.8;9;10;0;10;8;23;7;0;Matchs
+;Sebastian Nanasi;se SWE;AT,MT;Strasbourg;22-240;2002;12.8;12;8;3;7;2;5;14;35.7;9;10;1;9;4;16;8;0;Matchs
+;Yael Nandjou;fr FRA;DF;Nice;19-189;2005;1.7;4;1;2;1;1;4;8;50.0;4;4;1;3;4;8;7;0;Matchs
+;Youssouf Ndayishimiye;bi BDI;DF,MT;Nice;26-076;1998;7.5;16;7;12;3;1;7;11;63.6;4;10;6;4;8;24;38;1;Matchs
+;Junior Ndiaye;fr FRA;AT,MT;Montpellier;19-288;2005;0.8;1;0;1;0;0;0;0;;0;1;1;0;0;1;1;0;Matchs
+;Rassoul Ndiaye;sn SEN;MT;Le Havre;23-031;2001;7.0;17;13;10;7;0;3;13;23.1;10;6;1;5;6;23;8;0;Matchs
+;Tanguy Ndombele;fr FRA;MT;Nice;28-014;1996;10.5;30;20;10;17;3;12;18;66.7;6;9;0;9;11;41;7;0;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Loïc Nego;hu HUN;DF,AT;Le Havre;33-362;1991;9.7;23;13;13;8;2;16;24;66.7;8;7;1;6;15;38;25;0;Matchs
+;João Neves;pt POR;MT;Paris S-G;20-106;2004;12.1;48;26;16;22;10;20;34;58.8;14;17;5;12;8;56;8;0;Matchs
+;Mikayil Ngor Faye;sn SEN;DF;Rennes;20-181;2004;6.4;11;8;8;2;1;6;6;100.0;0;5;3;2;9;20;23;0;Matchs
+;Steve Ngoura;fr FRA;AT;Le Havre;19-324;2005;3.2;4;2;1;1;2;3;3;100.0;0;2;1;1;0;4;2;0;Matchs
+;Moussa Niakhate;sn SEN;DF;Lyon;28-309;1996;12.3;24;15;21;3;0;11;14;78.6;3;13;8;5;8;32;48;3;Matchs
+;Abdoulaye Niakhate Ndiaye;sn SEN;DF;Brest;22-276;2002;5.6;12;8;8;4;0;7;9;77.8;2;8;3;5;5;17;33;0;Matchs
+;Ibrahima Niane;sn SEN;AT;Angers;25-306;1999;7.6;6;3;3;2;1;3;3;100.0;0;5;1;4;2;8;3;2;Matchs
+;Rasmus Nicolaisen;dk DEN;DF;Toulouse;27-301;1997;6.9;6;3;4;2;0;3;5;60.0;2;10;5;5;10;16;25;0;Matchs
+;Arnaud Nordin;fr FRA;AT;Montpellier;26-208;1998;12.2;23;14;6;15;2;10;18;55.6;8;11;0;11;5;28;7;0;Matchs
+;Ernest Nuamah;gh GHA;AT,MT;Lyon;21-071;2003;4.6;10;4;7;2;1;8;13;61.5;5;4;0;4;3;13;3;0;Matchs
+;Rabby Nzingoula;cg CGO;MT;Montpellier;19-047;2005;9.0;30;17;12;13;5;12;27;44.4;15;12;2;10;18;48;12;0;Matchs
+;M'Bala Nzola;ao ANG;AT;Lens;28-146;1996;9.4;3;2;0;0;3;2;5;40.0;3;4;1;3;2;5;5;0;Matchs
+;Marwann Nzuzi;fr FRA;DF;Saint-Étienne;20-240;2004;1.4;2;2;1;0;1;1;2;50.0;1;0;0;0;2;4;6;0;Matchs
+;Hamzat Ojediran;ng NGA;MT,AT;Lens;21-058;2003;3.3;19;11;7;10;2;5;12;41.7;7;8;2;6;9;28;6;0;Matchs
+;Joseph Okumu;ke KEN;DF;Reims;27-230;1997;6.4;16;8;13;3;0;9;13;69.2;4;13;9;4;11;27;29;2;Matchs
+;Ben Old;nz NZL;MT,AT;Saint-Étienne;22-151;2002;4.2;4;4;3;1;0;2;8;25.0;6;5;1;4;1;5;1;0;Matchs
+;Warmed Omari;km COM;DF;Lyon;24-263;2000;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;1;0;Matchs
+;Becir Omeragic;ch SUI;DF;Montpellier;22-357;2002;9.3;17;6;12;4;1;10;15;66.7;5;10;5;5;5;22;33;0;Matchs
+;Ado Onaiwu;jp JPN;MT,AT;Auxerre;29-064;1995;5.7;5;4;0;5;0;2;6;33.3;4;1;0;1;2;7;6;0;Matchs
+;Christopher Operi;ci CIV;DF,AT;Le Havre;27-257;1997;13.0;13;9;6;2;5;7;12;58.3;5;20;6;14;14;27;30;0;Matchs
+;Victor Orakpo;ng NGA;AT;Nice;18-211;2006;0.4;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Gift Orban;ng NGA;AT,DF;Lyon;22-178;2002;2.1;0;0;0;0;0;0;1;0.0;1;0;0;0;0;0;0;0;Matchs
+;Gabriel Osho;ng NGA;DF;Auxerre;26-150;1998;11.1;12;8;10;1;1;6;11;54.5;5;22;14;8;11;23;52;0;Matchs
+;Jibril Othman;tn TUN;AT;Saint-Étienne;20-260;2004;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Guimissongui Ouattara;fr FRA;AT,MT;Strasbourg;19-081;2005;0.8;1;1;0;0;1;0;0;;0;2;0;2;1;2;0;0;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Kassoum Ouattara;fr FRA;DF,AT;Monaco;20-089;2004;3.7;9;7;5;4;0;4;13;30.8;9;4;0;4;4;13;1;0;Matchs
+;Zinédine Ould Khaled;fr FRA;MT;Angers;24-363;2000;0.6;1;1;1;0;0;0;1;0.0;1;2;0;2;0;1;1;0;Matchs
+;Beres Owusu;fr FRA;DF;Saint-Étienne;21-114;2003;1.0;2;2;1;1;0;2;2;100.0;0;2;2;0;0;2;5;0;Matchs
+;Elisha Owusu;gh GHA;MT;Auxerre;27-065;1997;15.4;51;28;20;28;3;23;37;62.2;14;23;4;19;27;78;27;1;Matchs
+;Willian Pacho;ec ECU;DF;Paris S-G;23-087;2001;13.3;34;19;21;13;0;16;22;72.7;6;21;13;8;25;59;48;0;Matchs
+;Nicolas Pallois;fr FRA;DF;Nantes;37-114;1987;10.0;24;11;15;7;2;15;25;60.0;10;14;6;8;16;40;68;2;Matchs
+;Kévin Pedro;fr FRA;DF;Saint-Étienne;18-325;2006;0.1;3;0;2;1;0;3;3;100.0;0;1;0;1;2;5;1;0;Matchs
+;Théo Pellenard;fr FRA;DF;Auxerre;30-313;1994;0.5;3;2;2;1;0;1;3;33.3;2;1;0;1;0;3;3;0;Matchs
+;Timothee Pembele;fr FRA;DF;Le Havre;22-124;2002;7.5;13;9;7;5;1;4;8;50.0;4;11;4;7;5;18;27;0;Matchs
+;Faris Pemi Moumbagna;cm CMR;AT;Marseille;24-194;2000;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Óscar Perea;co COL;MT;Strasbourg;19-106;2005;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Mathias Pereira Lage;pt POR;AT,MT;Brest;28-042;1996;5.8;11;8;6;3;2;4;9;44.4;5;6;1;5;6;17;10;0;Matchs
+;Lucas Perri;br BRA;GB;Lyon;27-032;1997;16.0;1;1;1;0;0;0;3;0.0;3;1;0;1;0;1;10;1;Matchs
+;Gaëtan Perrin;fr FRA;MT,AT;Auxerre;28-218;1996;13.2;34;18;16;8;10;18;29;62.1;11;6;0;6;8;42;2;0;Matchs
+;Léo Pétrot;fr FRA;DF;Saint-Étienne;27-271;1997;11.5;36;23;22;12;2;22;25;88.0;3;21;8;13;19;55;43;0;Matchs
+;Đorđe Petrović;rs SRB;GB;Strasbourg;25-095;1999;13.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;10;0;Matchs
+;Tom Pouilly;fr FRA;DF;Lens;21-207;2003;0.5;2;2;1;1;0;1;1;100.0;0;1;0;1;1;3;3;0;Matchs
+;Adrien Rabiot;fr FRA;MT;Marseille;29-283;1995;9.6;21;15;9;8;4;11;15;73.3;4;9;0;9;10;31;15;0;Matchs
+;Gonçalo Ramos;pt POR;AT;Paris S-G;23-205;2001;2.1;4;3;2;1;1;2;2;100.0;0;1;0;1;0;4;2;0;Matchs
+;Lilian Raolisoa;fr FRA;DF,AT;Angers;24-209;2000;2.7;5;3;2;1;2;1;6;16.7;5;2;1;1;2;7;5;0;Matchs
+;Rayan Raveloson;mg MAD;MT,DF;Auxerre;27-361;1997;8.0;6;5;2;4;0;5;15;33.3;10;8;7;1;5;11;22;0;Matchs
+;Guillaume Restes;fr FRA;GB;Toulouse;19-306;2005;15.8;2;1;2;0;0;2;2;100.0;0;0;0;0;0;2;11;0;Matchs
+;Alexsandro Ribeiro;br BRA;DF;Lille;25-155;1999;15.0;17;11;8;8;1;13;20;65.0;7;11;6;5;17;34;69;1;Matchs
+;Valentin Rongier;fr FRA;MT,DF;Marseille;30-035;1994;6.2;17;11;8;8;1;8;15;53.3;7;16;6;10;11;28;14;1;Matchs
+;Pablo Rosario;nl NED;MT,DF;Nice;28-004;1997;13.0;15;9;4;9;2;6;12;50.0;6;12;7;5;22;37;30;2;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Jon Rowe;eng ENG;AT,MT;Marseille;21-256;2003;4.5;6;6;0;2;4;4;6;66.7;2;2;1;1;1;7;0;0;Matchs
+;Fabián Ruiz Peña;es ESP;MT;Paris S-G;28-283;1996;8.8;17;10;8;6;3;8;22;36.4;14;8;1;7;10;27;10;1;Matchs
+;Gerónimo Rulli;ar ARG;GB;Marseille;32-236;1992;16.0;2;1;2;0;0;2;5;40.0;3;0;0;0;0;2;15;2;Matchs
+;Emmanuel Sabbi;us USA;MT,AT;Le Havre;27-018;1997;4.9;7;5;3;2;2;3;4;75.0;1;2;0;2;2;9;3;0;Matchs
+;Falaye Sacko;ml MLI;DF;Montpellier;29-255;1995;9.4;13;7;9;3;1;8;15;53.3;7;14;5;9;11;24;9;0;Matchs
+;Matvei Safonov;ru RUS;GB;Paris S-G;25-321;1999;4.8;0;0;0;0;0;0;0;;0;1;0;1;1;1;3;0;Matchs
+;Modibo Sagnan;ml MLI;DF;Montpellier;25-272;1999;13.3;31;17;20;8;3;17;30;56.7;13;14;8;6;17;48;59;3;Matchs
+;Osame Sahraoui;ma MAR;AT,MT;Lille;23-214;2001;9.1;6;4;2;2;2;1;4;25.0;3;10;1;9;4;10;5;1;Matchs
+;Wesley Saïd;fr FRA;AT,MT;Lens;29-267;1995;4.2;3;2;1;2;0;1;2;50.0;1;0;0;0;0;3;1;0;Matchs
+;Théo Sainte-Luce;fr FRA;MT,DF;Montpellier;26-083;1998;0.2;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Ibrahim Salah;ma MAR;AT;Brest;23-134;2001;3.7;4;2;1;1;2;1;5;20.0;4;2;0;2;1;5;0;0;Matchs
+;Amine Salama;fr FRA;AT;Reims;24-177;2000;3.0;2;2;0;1;1;0;3;0.0;3;2;1;1;0;2;0;0;Matchs
+;Mohammed Salisu;gh GHA;DF;Monaco;25-269;1999;8.3;20;11;11;9;0;10;10;100.0;0;9;7;2;11;31;40;2;Matchs
+;Yoann Salmier;gf GUF;DF;Le Havre;32-051;1992;7.6;11;6;7;3;1;7;8;87.5;1;11;7;4;6;17;49;0;Matchs
+;Mama Samba Baldé;gw GNB;AT;Lyon;29-066;1995;0.4;2;2;0;2;0;0;0;;0;0;0;0;1;3;1;0;Matchs
+;Mama Samba Baldé;gw GNB;AT;Brest;29-066;1995;7.1;5;4;1;1;3;2;7;28.6;5;4;0;4;3;8;6;0;Matchs
+;Brice Samba;fr FRA;GB;Lens;30-261;1994;15.0;0;0;0;0;0;0;0;;0;0;0;0;1;1;6;2;Matchs
+;Arouna Sangante;sn SEN;DF;Le Havre;22-274;2002;5.8;9;7;4;5;0;5;8;62.5;3;7;4;3;14;23;21;1;Matchs
+;Nhoa Sangui;fr FRA;DF;Reims;18-319;2006;6.5;9;5;1;4;4;3;6;50.0;3;6;2;4;4;13;12;0;Matchs
+;Baptiste Santamaria;fr FRA;MT;Rennes;29-308;1995;5.4;11;4;7;3;1;6;11;54.5;5;10;4;6;12;23;7;0;Matchs
+;Andrey Santos;br BRA;MT;Strasbourg;20-253;2004;14.7;58;39;28;25;5;25;43;58.1;18;18;5;13;14;72;22;0;Matchs
+;Tiago Santos;pt POR;DF;Lille;22-172;2002;4.5;12;7;4;5;3;6;9;66.7;3;2;0;2;2;14;4;0;Matchs
+;Malang Sarr;fr FRA;DF;Lens;25-354;1999;3.3;4;3;2;2;0;2;4;50.0;2;6;3;3;5;9;8;0;Matchs
+;Mamadou Sarr;fr FRA;DF;Strasbourg;19-135;2005;9.5;17;10;8;8;1;10;15;66.7;5;6;5;1;9;26;33;1;Matchs
+;Martin Satriano;uy URU;AT,DF;Lens;23-326;2001;0.5;3;1;1;1;1;3;3;100.0;0;0;0;0;0;3;2;0;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Téji Savanier;fr FRA;MT;Montpellier;33-020;1991;13.1;14;11;4;6;4;11;25;44.0;14;6;0;6;10;24;9;2;Matchs
+;Niklas Schmidt;de GER;MT;Toulouse;26-316;1998;2.3;6;4;1;5;0;4;7;57.1;3;0;0;0;1;7;4;0;Matchs
+;Jérémy Sebas;mq MTQ;AT,MT;Strasbourg;21-272;2003;1.7;3;2;1;1;1;2;3;66.7;1;1;0;1;0;3;2;0;Matchs
+;Alidu Seidu;gh GHA;DF;Rennes;24-221;2000;8.9;22;18;14;6;2;12;15;80.0;3;13;6;7;14;36;17;0;Matchs
+;Marvin Senaya;tg TOG;DF;Strasbourg;23-349;2001;2.2;6;3;3;2;1;5;11;45.5;6;5;2;3;7;13;10;0;Matchs
+;Djibril Sidibé;fr FRA;DF;Toulouse;32-166;1992;12.1;38;19;18;14;6;18;29;62.1;11;8;2;6;15;53;30;0;Matchs
+;Vincent Sierro;ch SUI;MT;Toulouse;29-095;1995;13.7;26;17;9;15;2;16;33;48.5;17;21;3;18;11;37;26;1;Matchs
+;Caio Henrique Oliveira Silva;br BRA;DF;Monaco;27-164;1997;7.9;15;12;7;7;1;7;16;43.8;9;9;1;8;5;20;18;0;Matchs
+;Abdallah Sima;sn SEN;AT;Brest;23-208;2001;5.3;5;4;0;2;3;3;5;60.0;2;2;0;2;1;6;4;0;Matchs
+;Moses Simon;ng NGA;AT,MT;Nantes;29-183;1995;14.1;9;7;2;4;3;5;13;38.5;8;5;0;5;10;19;6;0;Matchs
+;Lassine Sinayoko;ml MLI;AT,MT;Auxerre;25-034;1999;13.5;17;10;6;6;5;7;13;53.8;6;10;1;9;9;26;25;0;Matchs
+;Wilfried Singo;ci CIV;DF;Monaco;24-017;2000;13.2;23;16;15;7;1;10;16;62.5;6;6;3;3;27;50;55;2;Matchs
+;Ibrahim Sissoko;ml MLI;AT;Saint-Étienne;29-045;1995;8.9;11;9;5;3;3;2;5;40.0;3;9;1;8;2;13;13;0;Matchs
+;Niama Sissoko;ml MLI;AT;Reims;19-026;2005;0.2;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Leo Skiri Østigård;no NOR;DF;Rennes;25-044;1999;10.9;15;13;12;3;0;12;19;63.2;7;8;8;0;10;25;68;0;Matchs
+;Milan Škriniar;sk SVK;DF;Paris S-G;29-335;1995;4.2;7;5;3;4;0;3;3;100.0;0;7;6;1;3;10;16;0;Matchs
+;Naatan Skyttä;fi FIN;AT;Toulouse;22-249;2002;0.1;1;0;0;0;1;0;0;;0;0;0;0;0;1;0;0;Matchs
+;Eduard Sobol;ua UKR;DF;Strasbourg;29-266;1995;0.5;0;0;0;0;0;0;0;;0;1;0;1;0;0;3;0;Matchs
+;Florian Sotoca;fr FRA;AT,MT;Lens;34-078;1990;9.1;9;7;2;1;6;6;10;60.0;4;8;1;7;3;12;14;0;Matchs
+;Issa Soumaré;sn SEN;AT,MT;Le Havre;24-093;2000;6.9;4;2;0;2;2;2;8;25.0;6;5;1;4;3;7;7;0;Matchs
+;Saidou Sow;gn GUI;DF;Strasbourg;22-191;2002;11.3;9;5;6;3;0;6;12;50.0;6;15;9;6;15;24;37;2;Matchs
+;Lucas Stassin;be BEL;AT;Saint-Étienne;20-044;2004;6.9;8;6;1;2;5;5;8;62.5;3;4;0;4;0;8;3;0;Matchs
+;Enzo Sternal;fr FRA;AT,MT;Marseille;17-228;2007;0.3;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Gabriel Suazo;cl CHI;DF;Toulouse;27-155;1997;9.2;25;16;11;6;8;14;32;43.8;18;13;1;12;15;40;14;0;Matchs
+;Abakar Sylla;ci CIV;DF;Strasbourg;22-017;2002;7.2;20;10;11;7;2;11;12;91.7;1;12;7;5;7;27;29;0;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Issiaga Sylla;gn GUI;DF;Montpellier;31-010;1994;8.6;20;6;15;5;0;12;23;52.2;11;9;3;6;7;27;24;0;Matchs
+;Musa Al-Taamari;jo JOR;AT,MT;Montpellier;27-215;1997;8.4;12;8;4;4;4;7;13;53.8;6;1;0;1;3;15;1;1;Matchs
+;Nicolás Tagliafico;ar ARG;DF;Lyon;32-133;1992;7.9;27;17;9;11;7;15;20;75.0;5;11;4;7;17;44;21;0;Matchs
+;Florian Tardieu;fr FRA;MT;Saint-Étienne;32-264;1992;1.9;1;1;1;0;0;0;2;0.0;2;3;1;2;3;4;2;0;Matchs
+;Oussama Targhalline;ma MAR;MT;Le Havre;22-236;2002;9.3;17;13;11;2;4;4;11;36.4;7;12;6;6;14;31;7;1;Matchs
+;Enzo Tchato;cm CMR;DF;Montpellier;22-049;2002;11.8;25;15;17;7;1;15;28;53.6;13;19;6;13;15;40;35;0;Matchs
+;Tanner Tessmann;us USA;MT;Lyon;23-109;2001;2.7;8;5;4;3;1;4;6;66.7;2;2;2;0;6;14;10;0;Matchs
+;Teddy Teuma;mt MLT;MT;Reims;31-103;1993;3.5;8;4;1;4;3;5;12;41.7;7;6;1;5;5;13;4;0;Matchs
+;Jordan Teze;nl NED;DF;Monaco;25-103;1999;3.4;10;5;6;3;1;3;9;33.3;6;9;1;8;2;12;4;0;Matchs
+;Sorba Thomas;wls WAL;AT,MT;Nantes;25-142;1999;9.1;8;4;3;4;1;5;10;50.0;5;8;0;8;2;10;13;1;Matchs
+;Adrien Thomasson;fr FRA;MT;Lens;31-032;1993;14.4;52;29;23;17;12;32;55;58.2;23;21;2;19;11;63;20;0;Matchs
+;Corentin Tolisso;fr FRA;MT;Lyon;30-161;1994;10.9;28;12;14;10;4;11;25;44.0;14;18;5;13;9;37;19;1;Matchs
+;Abdoulaye Touré;gn GUI;MT;Le Havre;30-314;1994;13.9;36;19;20;11;5;20;30;66.7;10;19;10;9;20;56;24;2;Matchs
+;Birama Touré;ml MLI;MT,DF;Montpellier;32-219;1992;3.3;8;5;5;2;1;4;6;66.7;2;3;2;1;5;13;7;0;Matchs
+;Ousmane Toure;fr FRA;DF;Lille;19-328;2005;0.1;0;0;0;0;0;0;0;;0;0;0;0;1;1;2;0;Matchs
+;Adrien Truffert;fr FRA;DF,MT;Rennes;23-052;2001;12.6;28;13;12;11;5;17;23;73.9;6;18;2;16;9;37;25;0;Matchs
+;Vanderson;br BRA;DF;Monaco;23-204;2001;11.4;36;20;17;15;4;21;29;72.4;8;21;5;16;25;61;23;1;Matchs
+;Jordan Veretout;fr FRA;MT;Lyon;31-316;1993;9.9;13;6;6;6;1;7;20;35.0;13;10;2;8;1;14;12;0;Matchs
+;Ben Viadere;fr FRA;MT;Auxerre;19-131;2005;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Vitinha;pt POR;MT;Paris S-G;24-333;2000;11.5;21;9;7;13;1;13;24;54.2;11;9;3;6;5;26;7;1;Matchs
+;Ibrahima Wadji;sn SEN;MT,AT;Saint-Étienne;29-251;1995;1.2;4;4;1;2;1;3;7;42.9;4;0;0;0;0;4;0;0;Matchs
+;Elye Wahi;fr FRA;AT;Marseille;22-009;2003;6.4;0;0;0;0;0;0;4;0.0;4;1;0;1;1;1;0;0;Matchs
+;Caleb Wiley;us USA;DF,MT;Strasbourg;20-020;2004;3.0;1;0;0;1;0;0;1;0.0;1;3;1;2;4;5;5;0;Matchs
+;Christopher Wooh;cm CMR;DF;Rennes;23-115;2001;9.8;26;12;15;9;2;14;19;73.7;5;17;7;10;11;37;35;0;Matchs
+;Etienne Youte Kinkoue;fr FRA;DF;Le Havre;22-363;2002;11.5;10;4;5;5;0;7;11;63.6;4;19;11;8;13;23;64;0;Matchs
+;;;;;;;;;;;;;;;;;;;;;;;;
+;Yoram Zague;fr FRA;DF;Paris S-G;18-241;2006;1.8;4;3;2;1;1;2;3;66.7;1;2;0;2;2;6;2;0;Matchs
+;Wilfried Zaha;ci CIV;AT;Lyon;32-062;1992;0.8;1;1;1;0;0;1;2;50.0;1;3;0;3;1;2;0;0;Matchs
+;Warren Zaïre-Emery;fr FRA;MT,DF;Paris S-G;18-309;2006;12.6;32;14;10;14;8;14;27;51.9;13;22;3;19;13;45;15;2;Matchs
+;Miha Zajc;si SVN;MT;Toulouse;30-194;1994;1.5;1;1;0;0;1;1;2;50.0;1;0;0;0;2;3;3;0;Matchs
+;Denis Zakaria;ch SUI;MT;Monaco;28-052;1996;10.3;13;9;5;6;2;7;11;63.6;4;10;4;6;15;28;23;0;Matchs
+;Anass Zaroury;ma MAR;AT,MT;Lens;24-065;2000;7.6;7;6;0;5;2;3;13;23.1;10;5;0;5;1;8;4;0;Matchs
+;Nathan Zeze;fr FRA;DF;Nantes;19-207;2005;11.6;26;15;13;13;0;16;23;69.6;7;18;8;10;17;43;87;0;Matchs
+;Edon Zhegrova;xk KVX;AT,MT;Lille;25-286;1999;10.9;5;2;3;0;2;2;7;28.6;5;8;0;8;4;9;1;0;Matchs
+;Luc Zogbé;ci CIV;DF;Brest;19-293;2005;3.4;12;9;7;3;2;8;12;66.7;4;4;0;4;4;16;8;0;Matchs
+;Aristide Zossou;ci CIV;MT;Auxerre;19-211;2005;0.1;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matchs
+;Yanis Zouaoui;dz ALG;DF,AT;Le Havre;30-185;1994;3.6;4;3;2;1;1;2;4;50.0;2;1;0;1;2;6;7;0;Matchs
